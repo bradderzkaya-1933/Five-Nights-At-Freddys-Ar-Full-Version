@@ -240,4 +240,4 @@ This repository serves as the official landing page for Five Nights at Freddy's 
 **Get the most recent version of Five Nights at Freddy's AR today!**
 
 ---
-**Last updated:** 2026-09-12 16:34:43 UTC
+**Last updated:** 2026-09-12 18:50:00 UTC
